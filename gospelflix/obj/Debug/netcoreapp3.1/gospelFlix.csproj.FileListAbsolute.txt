@@ -1,0 +1,13 @@
+C:\DIO\APP1\gospelFlix\bin\Debug\netcoreapp3.1\gospelFlix.exe
+C:\DIO\APP1\gospelFlix\bin\Debug\netcoreapp3.1\gospelFlix.deps.json
+C:\DIO\APP1\gospelFlix\bin\Debug\netcoreapp3.1\gospelFlix.runtimeconfig.json
+C:\DIO\APP1\gospelFlix\bin\Debug\netcoreapp3.1\gospelFlix.runtimeconfig.dev.json
+C:\DIO\APP1\gospelFlix\bin\Debug\netcoreapp3.1\gospelFlix.dll
+C:\DIO\APP1\gospelFlix\bin\Debug\netcoreapp3.1\gospelFlix.pdb
+C:\DIO\APP1\gospelFlix\obj\Debug\netcoreapp3.1\gospelFlix.csprojAssemblyReference.cache
+C:\DIO\APP1\gospelFlix\obj\Debug\netcoreapp3.1\gospelFlix.AssemblyInfoInputs.cache
+C:\DIO\APP1\gospelFlix\obj\Debug\netcoreapp3.1\gospelFlix.AssemblyInfo.cs
+C:\DIO\APP1\gospelFlix\obj\Debug\netcoreapp3.1\gospelFlix.csproj.CoreCompileInputs.cache
+C:\DIO\APP1\gospelFlix\obj\Debug\netcoreapp3.1\gospelFlix.dll
+C:\DIO\APP1\gospelFlix\obj\Debug\netcoreapp3.1\gospelFlix.pdb
+C:\DIO\APP1\gospelFlix\obj\Debug\netcoreapp3.1\gospelFlix.genruntimeconfig.cache
